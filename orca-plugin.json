@@ -1,0 +1,91 @@
+{
+  "manifestVersion": 2,
+  "id": "dim-sum-theme",
+  "publisher": "dawidsok",
+  "name": "Dim Sum Theme",
+  "version": "0.1.0",
+  "execution": "data",
+  "description": "Dim Sum themes for Orca: dim, Flexoki-inspired UI and terminal colors.",
+  "license": "MIT",
+  "repository": "https://github.com/dawidsok/dim-sum-orca",
+  "engines": {
+    "orca": ">=1.4.245"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "dim-sum",
+        "title": "Dim Sum",
+        "path": "themes/dim-sum.json"
+      },
+      {
+        "id": "dim-sum-darker",
+        "title": "Dim Sum Darker",
+        "path": "themes/dim-sum-darker.json"
+      },
+      {
+        "id": "dim-sum-mono",
+        "title": "Dim Sum Mono",
+        "path": "themes/dim-sum-mono.json"
+      },
+      {
+        "id": "dim-sum-mono-light",
+        "title": "Dim Sum Mono Light",
+        "path": "themes/dim-sum-mono-light.json"
+      },
+      {
+        "id": "dim-sum-paper",
+        "title": "Dim Sum Paper",
+        "path": "themes/dim-sum-paper.json"
+      },
+      {
+        "id": "dim-sum-sunset",
+        "title": "Dim Sum Sunset",
+        "path": "themes/dim-sum-sunset.json"
+      },
+      {
+        "id": "dim-sum-wave",
+        "title": "Dim Sum Wave",
+        "path": "themes/dim-sum-wave.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "dim-sum",
+        "title": "Dim Sum",
+        "path": "terminal/dim-sum.json"
+      },
+      {
+        "id": "dim-sum-darker",
+        "title": "Dim Sum Darker",
+        "path": "terminal/dim-sum-darker.json"
+      },
+      {
+        "id": "dim-sum-mono",
+        "title": "Dim Sum Mono",
+        "path": "terminal/dim-sum-mono.json"
+      },
+      {
+        "id": "dim-sum-mono-light",
+        "title": "Dim Sum Mono Light",
+        "path": "terminal/dim-sum-mono-light.json"
+      },
+      {
+        "id": "dim-sum-paper",
+        "title": "Dim Sum Paper",
+        "path": "terminal/dim-sum-paper.json"
+      },
+      {
+        "id": "dim-sum-sunset",
+        "title": "Dim Sum Sunset",
+        "path": "terminal/dim-sum-sunset.json"
+      },
+      {
+        "id": "dim-sum-wave",
+        "title": "Dim Sum Wave",
+        "path": "terminal/dim-sum-wave.json"
+      }
+    ]
+  },
+  "capabilities": []
+}
